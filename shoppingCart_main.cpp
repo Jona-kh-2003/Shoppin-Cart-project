@@ -5,9 +5,9 @@ using namespace std;
 vector<product> Product={
     product(1,"apple",26),
     product(2,"mango",40),
-    product(3,"advance",20),
-    product(4,"dildo",198),
-    product(5,"shikhar",10),
+    product(3,"water bottle",20),
+    product(4,"dragon fruit",198),
+    product(5,"lollipop",10),
     product(6,"coke",90)
 };
 product* choose_product()
